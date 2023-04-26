@@ -59,6 +59,7 @@ Github - https://github.com/gmpvieira
 
 - [ ] 💻  Estudando Desenvolvedor Data Science (INFINITY SCHOOL)
   
+- [X] 💻  Desenvolvimento JAVA/Android (Blusoft)  
 
 # Certificação de Título Internacional: 
 
